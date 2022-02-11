@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hello World! 👋🏻
 
-<!--
-**Willinki/Willinki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a Data Scientist at Humanitas Research Hospital (Milan) and Data Science student at Università degli Studi di Milano Bicocca.
 
-Here are some ideas to get you started:
+#### My main Interests 🧙🏻‍♂️
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Geometric machine learning on graphs and manifolds
+* Quantum machine learning
+* Time series analysis
+
+#### Also 👾
+
+* Member of the Free Software Foundation (and of the Church of Emacs)
+* GNU/Linux junkie
