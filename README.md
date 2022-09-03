@@ -1,6 +1,6 @@
 ## Hello World! 👋🏻
 
-I am a Data Scientist at Humanitas Research Hospital (Milan) and Data Science student at Università degli Studi di Milano Bicocca.
+I am a PhD student in computer science and statistics at Università Bocconi (Milan)
 
 ### Main Interests 🧙🏻‍♂️
 
