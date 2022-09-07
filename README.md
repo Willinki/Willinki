@@ -6,7 +6,7 @@ I am a PhD student in computer science and statistics at Università Bocconi (Mi
 
 * Geometric machine learning on graphs and manifolds
 * Quantum machine learning
-* Time series analysis
+* Statistical properties of neural networks
 
 ### Also 👾
 
