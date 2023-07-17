@@ -1,14 +1,2 @@
-## Hello World! 👋🏻
-
-I am a PhD student in computer science and statistics at Università Bocconi (Milan)
-
-### Main Interests 🧙🏻‍♂️
-
-* Geometric machine learning on graphs and manifolds
-* Quantum machine learning
-* Statistical properties of neural networks
-
-### Also 👾
-
-* Member of the Free Software Foundation (and of the Church of Emacs)
-* GNU/Linux junkie
+https://www.fsf.org
+![Support free software](https://static.fsf.org/nosvn/appeal2020/spring/7-blackhole.png)
